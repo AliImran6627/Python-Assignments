@@ -31,3 +31,5 @@ if NumSum > 1:
         print(f"{NumSum} is a prime number.")
 else:
     print(f"{NumSum} is not a prime number.")
+
+# Test commit
